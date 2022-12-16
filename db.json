@@ -1,8 +1,8 @@
 {
     "posts": [
       {
+        "slug": "this-is-a-blog-article",  
         "id": 1,
-        "slug": "this-is-a-blog-article",
         "title": "This is a blog article about something",
         "category": "magic",
         "author": "Harry Potter",
@@ -16,8 +16,8 @@
         ]
       },
       {
-        "id": 2,
         "slug": "wow-another-blog-article",
+        "id": 2,
         "title": "Wow, another blog article",
         "category": "news",
         "author": "Sonic Hedgehog",
