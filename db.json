@@ -1,0 +1,32 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "slug": "this-is-a-blog-article",
+        "title": "This is a blog article about something",
+        "author": "Harry Potter",
+        "date": "September 12th, 2021",
+        "image": "https://picsum.photos/id/339/1920/1080",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium obcaecati facilis animi, eligendi odio libero cupiditate, voluptas labore ex ipsum nam molestiae nobis reiciendis accusamus aspernatur inventore! Praesentium, eligendi cumque suscipit nemo autem minima laboriosam nam odit repellat alias eum nulla tenetur harum corporis consequuntur repudiandae? Mollitia eligendi eveniet laudantium dolore impedit consectetur dolorem quidem minima, enim placeat vitae, ex vero totam tempore! Tempore magnam error amet libero magni quaerat eaque enim similique ut rerum delectus aperiam reprehenderit, quasi veniam qui ab. Esse quas quos ducimus repellat, odit ipsum voluptatibus reiciendis nam. Laboriosam amet expedita rerum? Ipsum accusamus reprehenderit sed!",
+        "tags": [
+          "something",
+          "such blog",
+          "much article"
+        ]
+      },
+      {
+        "id": 2,
+        "slug": "wow-another-blog-article",
+        "title": "Wow, another blog article",
+        "author": "Sonic Hedgehog",
+        "date": "October 31st, 2022",
+        "image": "https://picsum.photos/id/337/1920/1080",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium obcaecati facilis animi, eligendi odio libero cupiditate, voluptas labore ex ipsum nam molestiae nobis reiciendis accusamus aspernatur inventore! Praesentium, eligendi cumque suscipit nemo autem minima laboriosam nam odit repellat alias eum nulla tenetur harum corporis consequuntur repudiandae? Mollitia eligendi eveniet laudantium dolore impedit consectetur dolorem quidem minima, enim placeat vitae, ex vero totam tempore! Tempore magnam error amet libero magni quaerat eaque enim similique ut rerum delectus aperiam reprehenderit, quasi veniam qui ab. Esse quas quos ducimus repellat, odit ipsum voluptatibus reiciendis nam. Laboriosam amet expedita rerum? Ipsum accusamus reprehenderit sed!",
+        "tags": [
+          "wow",
+          "such blog",
+          "much article"
+        ]
+      }
+    ]
+  }
